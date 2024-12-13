@@ -42,7 +42,7 @@ const Content = () => (
             <i className="fab fa-github"></i>
           </a>
           <a
-            href="https://www.instagram.com/nahuelcarrizolc/"
+            href="https://t.me/luckybear0302/"
             target="_blank"
             rel="noopener noreferrer"
             data-aos="fade-up"
@@ -89,7 +89,7 @@ const Content = () => (
           </a>
           <a
             className="button"
-            href="https://www.instagram.com/nahuelcarrizolc/"
+            href="https://t.me/luckybear0302/"
             target="_blank"
             rel="noopener noreferrer"
             data-aos="fade-up"
